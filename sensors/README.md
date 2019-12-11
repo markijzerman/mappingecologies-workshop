@@ -1,6 +1,6 @@
 # Mapping Ecologies sensor document: Water and air quality
 
-##DFrobot Turbidity sensor
+## DFrobot Turbidity sensor
 Detecs water quality, uses light to detect suspended particles.
 Turbidity is measured in NTU (mg/L)
 
@@ -19,7 +19,7 @@ void loop() {
 }```
 
 
-##MQ-135 Air Quality sensor
+## MQ-135 Air Quality sensor
 Detects PPM (Particles Per Million) in real time.
 See under "What is PPM?": https://www.instructables.com/id/Air-Qualiy-Monitoring/
 
@@ -43,8 +43,9 @@ delay(100);                                   // wait 100ms for next reading
 }```
 
 
-#How to get in sensor data on Max or Touchdesigner?
+# How to get in sensor data on Max or Touchdesigner?
 Touchdesigner tutorial: https://www.youtube.com/watch?v=bUVavS6tNPc
-
-#Recording Touchdesigner data
-
+Max will be done live in the workshop
+ 
+# Recording Touchdesigner data
+See example .toe file in this directory
