@@ -16,7 +16,8 @@ void loop() {
   float voltage = sensorValue * (5.0 / 1024.0); // Convert the analog reading (which goes from 0 - 1023) to a voltage (0 - 5V):
   Serial.println(voltage); // print out the value you read:
   delay(500);
-}```
+}
+```
 
 
 ## MQ-135 Air Quality sensor
