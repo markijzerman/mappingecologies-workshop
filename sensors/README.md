@@ -41,7 +41,8 @@ Serial.print(sensorValue, DEC);               // prints the value read
 Serial.println(" PPM");
 
 delay(100);                                   // wait 100ms for next reading
-}```
+}
+```
 
 
 # How to get in sensor data on Max or Touchdesigner?
