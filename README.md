@@ -2,7 +2,7 @@
 #### Sharing resources, outcomes et cetera.
 
 ## Planning
-###DAY 1: Introductions
+### DAY 1: Introductions
 - Introductions
 - Look at examples
 - What are hyperlocal ecology-questions?
@@ -15,7 +15,7 @@
 	- "Homework": Record and bring some materials to work with next time.
 
 
-###DAY 2: Data & Narrative
+### DAY 2: Data & Narrative
 - Round of everyones ideas on a project.
 - What is your narrative? What is your data? How can the two come together?
 
@@ -24,6 +24,9 @@
 	- Data collection, visualisation & sonification (Arduino, Max & Touchdesigner)
 	- Photogrammetry (Metashape, Meshroom)
 
-###DAY 3: Work-specific help
+### DAY 3: Work-specific help
 - How is everyone doing?
 - Working, help & peer-to-peer helping
+
+### PRESENTATION
+- Presentation on the 21st of December(?)
