@@ -24,3 +24,6 @@ This will return a long list of information about that latitude/longitude.
 Touchdesigner mainly works by connecting nodes, but can easily be expanded with DAT-nodes which can also run Python. So it's a matter of finding a Python example of the API key we want to read out!
 
 In the .toe examples you can find how to read out air quality data.
+
+## How to get the data into Max
+See the example max patch that uses [maxurl] and [js] to parse an incoming JSON file.
